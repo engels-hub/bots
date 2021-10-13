@@ -1,5 +1,5 @@
 const { Client, Intents, MessageEmbed  } = require('discord.js');
-const { token, prefix } = require('./config.json');
+const { token, prefix } = require('./config.json'); //use new token!
 const{ schedule }=require('./schedule.json')
 // Create a new client instance
 const client = new Client({ intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_MESSAGES] });
