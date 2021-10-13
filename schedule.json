@@ -35,28 +35,28 @@
         "dayNumber":2,
         "lessons":[
             {
+                "lessonNumber":1,
+                "lessonName":"Geometrija",
+                "hour":8,
+                "minute":10
+            },
+            {
                 "lessonNumber":2,
-                "lessonName":"Anglu val.",
+                "lessonName":"Fizika",
                 "hour":9,
                 "minute":20
             },
             {
                 "lessonNumber":3,
-                "lessonName":"Kimija",
+                "lessonName":"Latviesu val./Bio",
                 "hour":10,
                 "minute":30
             },
             {
                 "lessonNumber":4,
-                "lessonName":"Algebruh",
+                "lessonName":"Anals",
                 "hour":11,
                 "minute":40
-            },
-            {
-                "lessonNumber":5,
-                "lessonName":"2. Svesvaloda",
-                "hour":13,
-                "minute":0
             }
         ]
         },
@@ -107,6 +107,12 @@
                 "dayNumber":4,
                 "lessons":[
                     {
+                        "lessonNumber":1,
+                        "lessonName":"Biologija",
+                        "hour":8,
+                        "minute":10
+                    },
+                    {
                         "lessonNumber":2,
                         "lessonName":"Anglu val.",
                         "hour":9,
@@ -114,21 +120,15 @@
                     },
                     {
                         "lessonNumber":3,
-                        "lessonName":"Kimija",
+                        "lessonName":"Anals",
                         "hour":10,
                         "minute":30
                     },
                     {
                         "lessonNumber":4,
-                        "lessonName":"Algebruh",
+                        "lessonName":"Literatura",
                         "hour":11,
                         "minute":40
-                    },
-                    {
-                        "lessonNumber":5,
-                        "lessonName":"2. Svesvaloda",
-                        "hour":13,
-                        "minute":0
                     }
                 ]
                 },
@@ -137,28 +137,34 @@
                     "dayNumber":5,
                     "lessons":[
                         {
-                            "lessonNumber":2,
-                            "lessonName":"Anglu val.",
-                            "hour":9,
-                            "minute":20
-                        },
-                        {
                             "lessonNumber":3,
-                            "lessonName":"Kimija",
+                            "lessonName":"-/Kimija",
                             "hour":10,
                             "minute":30
                         },
                         {
                             "lessonNumber":4,
-                            "lessonName":"Algebruh",
+                            "lessonName":"Sports",
                             "hour":11,
                             "minute":40
                         },
                         {
                             "lessonNumber":5,
-                            "lessonName":"2. Svesvaloda",
+                            "lessonName":"Anglu val.",
                             "hour":13,
                             "minute":0
+                        },
+                        {
+                            "lessonNumber":6,
+                            "lessonName":"Fizika/-",
+                            "hour":14,
+                            "minute":10
+                        },
+                        {
+                            "lessonNumber":7,
+                            "lessonName":"Programmesanas pulcins",
+                            "hour":15,
+                            "minute":20
                         }
                     ]
                     }
